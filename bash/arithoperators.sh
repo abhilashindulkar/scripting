@@ -41,4 +41,4 @@ then
 else
 	echo "a is equal to b"
 fi
-
+echo "$a"
